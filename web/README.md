@@ -19,6 +19,32 @@
 
 [x] Utilizando PopOver
 
+[x] Estilos Globais (cor de fundo)
+
+[x] Estrutura WidgetForm
+
+    [x] Header
+    [x] Footer
+    [x] Componentes de CloseButton
+
+[x] Escolha do tipo de feedback
+
+[x] Separando componente de passos
+
+[x] Comunicação de componentes
+
+[x] Conteúdo do feedback
+
+[x] Funcionalidade de Screenshot
+
+[x] Componente de Screenshot
+
+[x] Componente de Loading
+
+[x] Envio de feedback
+
+[x] Sucesso do feedback
+
 ## Importante
 ```
 Conceito SSR e SPA:
@@ -41,7 +67,10 @@ react-ts
 npm install
 
 npm install -D tailwindcss
-npx tailwindcss init -p0
+npm install -D @tailwindcss/forms
+npm install --save-dev tailwind-scrollbar
+npm install html2canvas
+npx tailwindcss init -p
 
 npm install -D tailwindcss postcss autoprefixer
 
