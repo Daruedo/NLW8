@@ -1,13 +1,27 @@
+# ⚠️🏗️ Projeto React em construção 🚧⚠️
+
+
+## Temas abordados:
+
 [x] Ambiente de desenvolvimento
+
 [x] Fluxo de SPA
+
 [x] Criando um projeto em React
-[x] Conceitos do React
-    [x] Componente
-    [x Propriedade
+
+[x] Conceitos do React: [x] Componente [x] Propriedade
+    
 [x] Configurando Tailwind
+
 [x] Componente de Widget (abrir/fechar)
+
 [x] Conceitos de acessibilidade
+
 [x] Utilizando PopOver
+
+## Importante
+```
+Conceito SSR e SPA:
 
 SSR: Wordpress, Ruby & Rails (Github), Magento...
 Back-end + front-end => HTML/CSS/JS =>  Browser => site
@@ -16,6 +30,10 @@ Back-end + front-end => HTML/CSS/JS =>  Browser => site
 SPA: AngularJS, Vue, React, Svelte, Aurelia
 Back-end(Node) => JSON/XML => Front-end(Web(React)) => HTML/CSS/JS =>  Browser => site
 Back-end(Node) => JSON/XML => Front-end(Mobile(RN)) => HTML/CSS/JS =>  Browser => site
+```
+
+
+## Comandos:
 
 npm create vite@latest
 React
@@ -32,7 +50,6 @@ npm install phosphor-react
 npm install @headlessui/react
 
 
-npm run dev <-------------------------------------------------------------------------
-
+> npm run dev
 
 
