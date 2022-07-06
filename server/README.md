@@ -1,4 +1,5 @@
-## Back-end:
+# ⚠️🏗️ Projeto Node.js em construção 🚧⚠️
+
 
 [x] Setup da estrutura
 
@@ -23,7 +24,7 @@
 
 [x] Testes unitários na aplicação
 
-# Comandos:
+## Comandos:
 
 npm init -y
 npm i typescript @types/node ts-node-dev -D
@@ -57,7 +58,7 @@ npm i -D @swc/core @swc/jest
 npm i cors
 npm i @types/cors -D
 
-# Tecnologias
+## Tecnologias
 
 Node.js
 
@@ -70,7 +71,7 @@ ORM: Prisma
 Testes unitários: Jest
 
 
-# SOLID
+## SOLID
 
 1. Single Responsibility Principle
 - Cada classe tem uma responsabilidade única;
