@@ -3,6 +3,8 @@
 
 ## Temas abordados:
 
+Front-end:
+
 [x] Ambiente de desenvolvimento
 
 [x] Fluxo de SPA
@@ -45,7 +47,10 @@
 
 [x] Sucesso do feedback
 
+
+
 ## Importante
+
 ```
 Conceito SSR e SPA:
 
