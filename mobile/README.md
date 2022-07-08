@@ -1,5 +1,5 @@
 
-# ⚠️🏗️ Projeto React em construção 🚧⚠️
+# ⚠️🏗️ Projeto React Native em construção 🚧⚠️
 
 # Mobile
 
