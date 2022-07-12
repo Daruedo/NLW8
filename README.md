@@ -11,16 +11,18 @@ Conteúdo Técnico
 
     -[x] Deploy na Vercel
 
--[] Deploy do back-end
+-[x] Deploy do back-end
 
-    -[] Configurando .env
+    -[x] Configurando .env
 
-    -[] Subindo no Github
+    -[x] Subindo no Github
 
-    -[] Deploy na Vercel 
+    -[x] Deploy na Vercel 
 
 
 25:12 
 
 instalar axios no front
 npm instal axios
+
+https://nlw-8-five.vercel.app/
