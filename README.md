@@ -1,29 +1,31 @@
-Conteúdo Técnico
--[x] Integrando back-end com front-end
+# ⚠️🏗️ Projeto em construção 🚧⚠️
 
--[x] Loading no botão de Enviar
+## Conteúdo Técnico:
 
--[x] Deploy do front-end
+- [x] Integrando back-end com front-end
 
-    -[x] Configurando .env
+- [x] Loading no botão de Enviar
 
-    -[x] Subindo no Github
+- [x] Deploy do front-end
 
-    -[x] Deploy na Vercel
+    - [x] Configurando .env
 
--[x] Deploy do back-end
+    - [x] Subindo no Github
 
-    -[x] Configurando .env
+    - [x] Deploy na Vercel
 
-    -[x] Subindo no Github
+- [x] Deploy do back-end
 
-    -[x] Deploy na Vercel 
+    - [x] Configurando .env
+
+    - [x] Subindo no Github
+
+    - [x] Deploy na Vercel 
 
 
-25:12 
 
-instalar axios no front
-npm instal axios
+instalar axios no front:
+> npm instal axios
 
 
 Visite o <a href="https://nlw-8-five.vercel.app/" target="_blank">site</a>!
