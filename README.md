@@ -1,15 +1,15 @@
 Conteúdo Técnico
--[] Integrando back-end com front-end
+-[x] Integrando back-end com front-end
 
--[] Loading no botão de Enviar
+-[x] Loading no botão de Enviar
 
--[] Deploy do front-end
+-[x] Deploy do front-end
 
-    -[] Configurando .env
+    -[x] Configurando .env
 
-    -[] Subindo no Github
+    -[x] Subindo no Github
 
-    -[] Deploy na Vercel
+    -[x] Deploy na Vercel
 
 -[] Deploy do back-end
 
@@ -19,25 +19,8 @@ Conteúdo Técnico
 
     -[] Deploy na Vercel 
 
-    17:18
 
--[] 
-
--[] 
-
--[] 
-
--[] 
-
--[] 
-
--[] 
-
--[] 
-
--[]
-
--[] 
+25:12 
 
 instalar axios no front
 npm instal axios
