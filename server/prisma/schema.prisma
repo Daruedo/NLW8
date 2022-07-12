@@ -5,9 +5,9 @@ generator client {
   provider = "prisma-client-js"
 }
 
+// instalar postgres na maquina pelo docker
 datasource db {
-  provider = "sqlite"
-  // provider = "postgresql" // instalar postgres na maquina pelo docker
+  provider = "postgresql"
   url      = env("DATABASE_URL")
 }
 
