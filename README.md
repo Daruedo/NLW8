@@ -25,4 +25,5 @@ Conteúdo Técnico
 instalar axios no front
 npm instal axios
 
-https://nlw-8-five.vercel.app/
+
+Visite o <a href="https://nlw-8-five.vercel.app/" target="_blank">site</a>!
