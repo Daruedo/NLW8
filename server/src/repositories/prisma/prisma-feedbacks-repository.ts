@@ -11,4 +11,16 @@ export class PrismaFeedbacksRepository implements FeedbacksRepository {
             }
         })
     }
+
+    async index() {
+        const feedbacks = await prisma.feedback.findMany({
+            select: {
+              id: true,
+              type: true,
+              comment: true
+            },
+          })
+        
+        return feedbacks  
+    }
 }

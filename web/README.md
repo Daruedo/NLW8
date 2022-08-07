@@ -83,6 +83,8 @@ npm install phosphor-react
 
 npm install @headlessui/react
 
+npm install scss
+
 > npm run dev
 
 
