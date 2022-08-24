@@ -18,14 +18,25 @@
 
     - [x] Configurando .env
 
-    - [x] Subindo no Github
+Melhorias:
+
+- [] Tema light/dark
+(https://tailwindcss.com/docs/dark-mode)
+
+- [] Em produção usar algum serviço de e-mail (mailgun)
+
+- [] Melhorar HTML/CSS e-mail
+
+- [] Criar um dashboar de feedbacks
+
+    - [] Autenticação (Firebase/OAuth)
+
+- [] Validação de campos/erros
 
     - [x] Deploy na Vercel 
 
 
+deploy:
+npx prisma migrate deploy && npm run start
 
-instalar axios no front:
-> npm instal axios
-
-
-Visite o <a href="https://nlw-8-five.vercel.app/" target="_blank">site</a>!
+https://nlw-8-five.vercel.app/

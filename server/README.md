@@ -87,3 +87,16 @@ Testes unitários: Jest
 
 5. Dependency Inversion Principle
 - Dependa de abstrações e não de implementações
+
+
+
+
+...
+
+DATABASE_URL="postgresql://postgres:postgres@postgres:5432/Todo?schema=public"
+
+- [x] Criar rota callback
+- [x] Autenticação usuário recebendo o código
+- [x] Cadastro de mensagem
+- [x] Configuração websocket
+- [x] Retornar 3 últimas mensagens

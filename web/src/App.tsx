@@ -1,7 +1,17 @@
+import { MessageList } from "./components/MessageList"
 import { Widget } from "./components/Widget"
+import { LoginBox } from "./components/LoginBox"
+
+import styles from './App.module.scss';
 
 export function App() {
   return (
-    <Widget/>
+    <>
+      <main className={styles.contentWrapper}>
+        <MessageList/>
+        <LoginBox/>
+      </main>
+      <Widget/>
+    </>
   )
 }
