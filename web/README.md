@@ -85,6 +85,9 @@ npm install @headlessui/react
 
 npm install scss
 
+npm install react-google-login
+npm install react-google-login --legacy-peer-deps
+
 > npm run dev
 
 

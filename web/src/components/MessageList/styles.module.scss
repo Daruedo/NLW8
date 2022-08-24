@@ -21,17 +21,13 @@
     .message {
         max-width: 440px;
 
-        &:nth-child(2) {
-            margin-left: 80px;
-        }
-
         .messageContent {
-            font-size: 20px;
+            font-size: 16px;
             line-height: 28px;
         }
 
         .messageUser {
-            margin-top: 16px;
+            margin-bottom: 16px;
             display: flex;
             align-items: center;
 
