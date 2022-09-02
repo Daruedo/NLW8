@@ -29,3 +29,21 @@ instalar axios no front:
 
 
 Visite o <a href="https://nlw-8-five.vercel.app/" target="_blank">site</a>!
+
+
+## Iniciando projeto:
+
+```
+cd .\server\
+
+npm run dev
+```
+```
+cd .\web\
+
+npm run dev
+```
+
+## Tela
+
+![chrome_uO8nynwj1V](https://user-images.githubusercontent.com/66702430/188234362-2ebd0221-8f5d-4375-b5c9-86940303d1b2.png)
