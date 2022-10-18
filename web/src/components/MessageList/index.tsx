@@ -45,25 +45,28 @@ export function MessageList() {
     }, [])
 
     return (
-        <div className={styles.messageListWrapper}>
-            <img src={logoImg} alt="DoWhile 2021" />
-
-            <ul className={styles.messageList}>
-                {feedbacks.map(feedback => {
-                    return (
-                        <li key={feedback.id} className={styles.message}>
-                            <div className={styles.messageUser}>
-                                <div className={styles.userImage}>
-                                    <img src="https://icon-library.com/images/anonymous-user-icon/anonymous-user-icon-2.jpg" alt="Anon" />
+        <div>
+            <div className={styles.logoWrapper}>
+                <img src={logoImg} alt="DoWhile 2021" />
+            </div>
+            <div className={styles.messageListWrapper}>
+                <ul className={styles.messageList}>
+                    {feedbacks.slice(0).reverse().map(feedback => {
+                        return (
+                            <li key={feedback.id} className={styles.message}>
+                                <div className={styles.messageUser}>
+                                    <div className={styles.userImage}>
+                                        <img src="https://icon-library.com/images/anonymous-user-icon/anonymous-user-icon-2.jpg" alt="Anon" />
+                                    </div>
+                                    <span>{feedback.comment}</span>
                                 </div>
-                                <span>{feedback.comment}</span>
-                            </div>
-                            <p className={styles.messageContent}>Tipo de feedback: {feedback.type}</p>
-                        </li>
-                    );
-                })}
-                
-            </ul>
+                                <p className={styles.messageContent}>Tipo de feedback: {feedback.type}</p>
+                            </li>
+                        );
+                    })}
+                    
+                </ul>
+            </div>
         </div>
     )
 }
